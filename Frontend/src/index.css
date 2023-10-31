@@ -1,0 +1,65 @@
+
+
+body {
+  height: 100vh;
+  margin: 0;
+  font-family:'PT Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*{
+  font-family: 'PT Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.cardsDesign {
+
+
+}
+
+.LandPageLayout {
+  padding-top: 7.5rem;;
+  height: 12.5rem;
+  background-image: url(../public/landingBack.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  
+}
+
+.restpageDIV {
+  height: 100rem;
+  background-color: black;
+  
+}
+
+.SearchBar {
+  
+  width: 40%;
+  position: relative;
+  margin-left: 30rem;
+}
+
+.searchDiv {
+  
+}
+
+.TitleText {
+  color: white;
+}
+
+.footerDIV {
+  color: white;
+  font-size: 2rem;
+  text-align: left;
+  background-image: url(../public/landingBack.jpg);
+  height: 10rem;
+}
+

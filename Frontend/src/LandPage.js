@@ -7,6 +7,8 @@ export default function LandPage(){
         <div className="LandPageLayout">
         
         <SearchBar/>
+
+        
         </div>
     )
 }

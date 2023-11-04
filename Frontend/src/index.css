@@ -20,46 +20,86 @@ code {
 }
 
 .cardsDesign {
-
-
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5rem;
+  border-radius: 2rem;
+  color: white;
+  border: solid;
+  border-color: white;
+  width: 20%;
+  height: 20rem;
 }
 
+
 .LandPageLayout {
-  padding-top: 7.5rem;;
+  padding-top: 7.5rem;
   height: 12.5rem;
   background-image: url(../public/landingBack.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
-  
 }
 
 .restpageDIV {
+  padding-top: 2rem;
   height: 100rem;
   background-color: black;
   
 }
 
-.SearchBar {
-  
+.SearchBar { 
   width: 40%;
   position: relative;
   margin-left: 30rem;
 }
 
 .searchDiv {
-  
+
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color:white; 
+  text-decoration:none; 
+  cursor:pointer;  
+}
 .TitleText {
   color: white;
 }
 
+
 .footerDIV {
+
   color: white;
   font-size: 2rem;
-  text-align: left;
-  background-image: url(../public/landingBack.jpg);
+  text-align: center;
+  background-color: black;
   height: 10rem;
 }
+
+.cardsImage {
+  height: 15rem;
+  width: 15rem;
+}
+
+.Div1RestPage {
+  display: flex;
+}
+
+.Introduction {
+  margin-top: 1rem;
+  color: white;
+  font-size: 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 45rem;
+  width: 60%;
+  
+}
+
 

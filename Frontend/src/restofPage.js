@@ -29,11 +29,11 @@ export default function RestofPage(){
            />
 
           <Card 
-           link="https://www.instagram.com/p/CzIZpvwPOyh/?img_index=1"
-           source="insta2.jpg" 
-           header="What is Sextortion"
+           link="https://www.instagram.com/p/CzZJPkPM32w/?img_index=1"
+           source="insta3.jpg" 
+           header="Why people fall for these traps"
            details="Click and Read More"
-           date="3.11.2023"
+           date="7.11.2023"
            />
            </div>
 
